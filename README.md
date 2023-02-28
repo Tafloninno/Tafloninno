@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Taflon
 
 
-**Full stack developer** 
+**Full-stack developer** 
 
 
 - 🔭 I’m currently exploring the web development world
