@@ -9,4 +9,4 @@
 - 💬 Ask me about Tech related stuff
 - 📫 How to reach me: Tafloninno@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tafloninno&hide=contribs,prs)
+
